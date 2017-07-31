@@ -280,7 +280,7 @@ class View
     /**
      * @return string
      */
-    public static function _yield()
+    public static function view()
     {
         return self::call();
     }
